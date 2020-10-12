@@ -41,10 +41,14 @@ Pond critters can be quite fast so you'll need to keep the water flowing into th
   }
 </style>
 
+
 ---
 ## **POND INVERTEBRATES**
 Below you will find videos and key features of the major groups you are likely to find in a pond dip.
 
+---
+<div align="center"> NO LEGS </div>
+---
 
 ### Flatworms (Phylum: Platyhelminthes)
 - Usually quite small (1-3cm)
@@ -68,7 +72,7 @@ Below you will find videos and key features of the major groups you are likely t
 - Can be quite large (up to 8cm)
 - Two suckers (front & back)
 - Eyes present (but they can be tiny!)
-- Flattened body, but don't glide like flatworms
+- Flattened body, but they don't glide like flatworms
 
 {% include youtubePlayer.html id="VBTWQNpIpTY" %}
 
@@ -80,6 +84,7 @@ Below you will find videos and key features of the major groups you are likely t
 
 {% include youtubePlayer.html id="AwJzGcT389g" %}
 
+
 ### Bivalves (Phylum: Mollusca, Class: Bivalvia)
 - Two valves make up the shell
 - Filter feeders
@@ -87,14 +92,17 @@ Below you will find videos and key features of the major groups you are likely t
 {% include youtubePlayer.html id="EWOjE4yxwMs" %}
 
 
-
+---
+<div align="center"> 6 LEGS </div>
+---
 
 ## **INSECTS (Phylum: Arthropoda, Class: Insecta)**
-*Insects comprise the group with the most species described so they are divided by Order below.*
+*Insects comprise the group with the most species so they are divided by Order below.*
 
 Distinguishing features:
-- 6 visible legs (unless a fly larva)
-- segmented body
+- 6 legs (except fly larvae)
+- segmented body (head, thorax, abdomen)
+
 
 ### Dragonflies & Damselflies (Order: Odonata)
 **Dragonflies**
@@ -105,6 +113,7 @@ Distinguishing features:
 
 {% include youtubePlayer.html id="UMXoh2u1cr0" %}
 
+
 **Damselflies**
 - Large and slender (up to 3cm)
 - Swim with a side-to-side motion
@@ -113,8 +122,10 @@ Distinguishing features:
 
 {% include youtubePlayer.html id="h0GnDxugNY0" %}
 
+
 ### True Bugs (Order: Hemiptera)
-Several different bug families are aquatic, the two most common are below.
+*Bugs look quite similar as adults and larvae.* 
+Several different bug families are aquatic, the two most common are:
 
 **Corixidae (Water boatmen)**
 - Swim the right way up
@@ -123,6 +134,7 @@ Several different bug families are aquatic, the two most common are below.
 
 {% include youtubePlayer.html id="XXXXX" %}
 
+
 **Notonectidae (Backswimmers)**
 - Swim upside down
 - Very fast swimmers
@@ -130,13 +142,24 @@ Several different bug families are aquatic, the two most common are below.
 
 {% include youtubePlayer.html id="RQ-3OC6fHm0" %}
 
+
 ### Beetles
+*Unlike bugs, beetle larvae look very different to the adults and both can be found in a pond*
 
 **Larvae**
+- Worm-like shape,
+- 6 segmented legs
+- Distinct head usually visible
+
 {% include youtubePlayer.html id="a4xCXndZ7l4" %}
 
+
 **Adults**
+- Hardened case covers wings
+- Very active (difficult to catch)
+
 {% include youtubePlayer.html id="LXRijDuF-2A" %}
+
 
 ### Mayflies
 
@@ -146,16 +169,31 @@ Several different bug families are aquatic, the two most common are below.
 
 ### Alderflies 
 
+
+---
+<div align="center"> MORE THAN 6 LEGS </div>
+---
+
 ## **ARACHNIDA**
 
 ### Spiders
 ### Mites
+
 
 ## **CRUSTACEA**
 
 ### Water Hog-louse 
 
 ### Freshwater Shrimp 
+
+### Water Fleas (Order: Cladocera)
+
+
+
+
+
+
+
 
 
 ## Thanks

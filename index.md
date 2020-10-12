@@ -47,11 +47,11 @@ Pond critters can be quite fast so you'll need to keep the water flowing into th
 Below you will find videos and key features of the major groups you are likely to find in a pond dip.
 I've split them into three groups:
 
-1. No legs
-2. Six legs
-3. More than six legs
+1. [No legs](#no-legs)
+2. [Six legs](#six-legs)
+3. [More than six legs](#more-than-six-legs)
 
-***Note:** Insects have 6 segmented legs, but fly larvae don't have any real legs - if in doubt check out the insect Order [Diptera](#flies-order-diptera)*
+***Note:** Insects have six segmented legs, but fly larvae don't have any real legs - if in doubt check out the insect Order [Diptera](#flies-order-diptera)*
 
 
 ---
@@ -110,10 +110,12 @@ I've split them into three groups:
 
 Distinguishing features:
 - Six legs, except [fly](#flies-order-diptera) larvae
-- segmented body (head, thorax, abdomen)
+- Segmented body (head, thorax, abdomen)
 
 
 ### Dragonflies & Damselflies (Order: Odonata)
+*Almost everyone thinks of dragonflies as masters of the sky, but they spend most of their lives underwater where they are the dominant predators in fishless ecosystems!*
+
 **Dragonflies**
 - Large and stout (up to 5cm)
 - Use waterjet propulsion (i.e. don't swim)
@@ -133,10 +135,11 @@ Distinguishing features:
 
 
 ### True Bugs (Order: Hemiptera)
-*Bugs look quite similar as adults and larvae.* 
-Several different bug families are aquatic, the two most common are:
+*Bugs look quite similar as adults and larvae as they don't have a pupal stage.* 
+Several different bug families are aquatic, the most common are:
 
-**Corixidae (Water boatmen)**
+**Water boatmen (Family: Corixidae)**
+- Streamlined body
 - Swim the right way up
 - Very fast swimmers
 - Predatory / scavangers
@@ -144,7 +147,8 @@ Several different bug families are aquatic, the two most common are:
 {% include youtubePlayer.html id="XXXXX" %}
 
 
-**Notonectidae (Backswimmers)**
+**Backswimmers (Family: Notonectidae)**
+- Streamlined body
 - Swim upside down
 - Very fast swimmers
 - Predatory / scavangers
@@ -156,32 +160,56 @@ Several different bug families are aquatic, the two most common are:
 *Unlike bugs, beetle larvae look very different to the adults and both can be found in a pond*
 
 **Larvae**
-- Worm-like shape,
-- 6 segmented legs
-- Distinct head usually visible
+- Worm-like shape
+- Six segmented legs
+- Distinct head is usually visible
 
 {% include youtubePlayer.html id="a4xCXndZ7l4" %}
 
 
 **Adults**
+- Robust body, not as streamlined
 - Hardened case covers wings
 - Very active (difficult to catch)
 
 {% include youtubePlayer.html id="LXRijDuF-2A" %}
 
 
-### Mayflies
+### Mayflies (Order: Ephemeroptera)
+*In most British ponds you will likely find a single species: Cloeon dipterum - the "pond olive"*
+
+- Three tails (sometimes broken)
+- Gills along the side of the abdomen
+- Delicate, but they move quickly to escape capture
+
+{% include youtubePlayer.html id="0S5BDxx_9j4" %}
+
 
 ### Caddisflies
+*Caddisflies are the freshwater relatives of moths. Some species make cases out of sticks, leaves, sand grains or silk.*
+
+- Worm-like shape
+- Six prominent legs
+- Two strong hooks at end of abdomen
+- Head and thorax well distinguished
+- Carry a case (not all species)
+
+**Cased caddisfly**
+{% include youtubePlayer.html id="YTjK2ZUD8Vk" %}
+
+**Caseless caddisfly**
+{% include youtubePlayer.html id="iAJkBTmsCjY" %}
+
 
 ### Flies (Order: Diptera)
+*Flies are the most species rich freshwater invertebrate, with over 3000 species in the UK alone!*
 
-### Alderflies 
+
 
 
 ---
-<div align="center"> MORE THAN 6 LEGS </div>
----
+# MORE THAN SIX LEGS
+
 
 ## **ARACHNIDA**
 

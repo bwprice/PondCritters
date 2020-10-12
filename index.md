@@ -138,20 +138,26 @@ Distinguishing features:
 *Bugs look quite similar as adults and larvae as they don't have a pupal stage.* 
 Several different bug families are aquatic, the most common are:
 
+**Pond skaters (Family: Gerridae)**
+- Walk on the water surface
+- Long slender legs
+
+{% include youtubePlayer.html id="GEYXF4fXjrk" %}
+
+
 **Water boatmen (Family: Corixidae)**
-- Streamlined body
+- Streamlined elongated body
 - Swim the right way up
 - Very fast swimmers
-- Predatory / scavangers
+- A pair of long oar-shaped legs
 
-{% include youtubePlayer.html id="XXXXX" %}
+{% include youtubePlayer.html id="LNXLKEr6zFM" %}
 
 
 **Backswimmers (Family: Notonectidae)**
-- Streamlined body
+- Streamlined elongated body
 - Swim upside down
-- Very fast swimmers
-- Predatory / scavangers
+- A pair of long oar-shaped legs
 
 {% include youtubePlayer.html id="RQ-3OC6fHm0" %}
 
@@ -168,7 +174,7 @@ Several different bug families are aquatic, the most common are:
 
 
 **Adults**
-- Robust body, not as streamlined
+- Robust body, round rather than long
 - Hardened case covers wings
 - Very active (difficult to catch)
 
@@ -192,7 +198,7 @@ Several different bug families are aquatic, the most common are:
 - Six prominent legs
 - Two strong hooks at end of abdomen
 - Head and thorax well distinguished
-- Carry a case (not all species)
+- Some carry a case (not all species)
 
 **Cased caddisfly**
 {% include youtubePlayer.html id="YTjK2ZUD8Vk" %}
@@ -204,10 +210,8 @@ Several different bug families are aquatic, the most common are:
 ### Flies (Order: Diptera)
 *Flies are the most species rich freshwater invertebrate group, with over 3000 species in the UK alone!*
 
-
-
-
 **Craneflies (Family: Tabanidae)**
+*These flies have unmistakable adults, known as "daddy longlegs"* 
 
 - Soft worm-like body
 - Large anal spiracles (breathing holes)

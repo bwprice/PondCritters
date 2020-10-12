@@ -53,14 +53,19 @@ Below you will find images, videos and key features of the major groups you are 
 {% include youtubePlayer.html id="5L4b6pyaXb4" %}
 
 ### Worms (Phylum: Annelida)
-**Earthworms (subclass: Oligochaeta)** 
+**"Earthworms" (subclass: Oligochaeta)** 
+- can be quite large (up to 8cm)
+- No obvious head or eyes
+- Segmented body
 
-{% include youtubePlayer.html id="O040Jd3yzhM" %}
+{% include youtubePlayer.html id="7UyJW4LfsWI" %}
 
 **Leeches (subclass: Hirudinea)**
+- can be quite large (up to 8cm)
+- two suckers (front & back)
+- eyes present (can be tiny!)
 
-
-{% include youtubePlayer.html id="O040Jd3yzhM" %}
+{% include youtubePlayer.html id="VBTWQNpIpTY" %}
 
 ### Freshwater Snails 
 ### Bivalves 
@@ -92,7 +97,11 @@ Below you will find images, videos and key features of the major groups you are 
 
 ### Beetles
 
+**Larvae**
+{% include youtubePlayer.html id="a4xCXndZ7l4" %}
 
+**Adults**
+{% include youtubePlayer.html id="LXRijDuF-2A" %}
 
 ### Mayflies
 

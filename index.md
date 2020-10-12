@@ -185,7 +185,7 @@ Several different bug families are aquatic, the most common are:
 {% include youtubePlayer.html id="0S5BDxx_9j4" %}
 
 
-### Caddisflies
+### Caddisflies (Order: Trichoptera)
 *Caddisflies are the freshwater relatives of moths. Some species make cases out of sticks, leaves, sand grains or silk.*
 
 - Worm-like shape
@@ -202,9 +202,33 @@ Several different bug families are aquatic, the most common are:
 
 
 ### Flies (Order: Diptera)
-*Flies are the most species rich freshwater invertebrate, with over 3000 species in the UK alone!*
+*Flies are the most species rich freshwater invertebrate group, with over 3000 species in the UK alone!*
 
 
+
+
+**Craneflies (Family: Tabanidae)**
+
+
+{% include youtubePlayer.html id="2QqAcu8KEWs" %}
+
+**Phantom Midges (Family: Chaoboridae)**
+*The fly equivalent of a submarine!*
+
+- Distinct head
+- Sometimes bright red
+- Prolegs just behind head
+
+{% include youtubePlayer.html id="2vY01Lm374A" %}
+
+**Non-biting Midges (Family: Chironomidae)**
+*A diverse group in which the adults look like mosquitos*
+
+- Distinct head
+- Sometimes bright red
+- Prolegs just behind head
+
+{% include youtubePlayer.html id="2vY01Lm374A" %}
 
 
 ---

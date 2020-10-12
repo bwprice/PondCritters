@@ -6,7 +6,7 @@ It's important to pond dip safely:
 
 1. Make sure you've done a risk assessment.
 2. Never pond dip alone, you might need help. 
-3. Wear gloves and wash your hands when done - *you don't have to sing happy birthday* :grin:
+3. Wear gloves and wash your hands when done - *you don't have to sing happy birthday*
 4. Make sure to cover any cuts.
 5. Be on the lookout for symptoms of **Weils disease**, more info on the [NHS website](https://www.nhs.uk/conditions/leptospirosis/)
 
@@ -51,7 +51,8 @@ I've split them into three groups:
 2. Six legs
 3. More than six legs
 
-*Note: Insects have 6 segmented legs, but fly larvae don't have any legs - if in doubt check the insect Order Diptera*
+***Note:** Insects have 6 segmented legs, but fly larvae don't have any real legs - if in doubt check out the insect Order [Diptera](#-flies-order-diptera)*
+
 
 ---
 # NO LEGS
@@ -108,7 +109,7 @@ I've split them into three groups:
 *Insects comprise the group with the most species so they are divided by Order below.*
 
 Distinguishing features:
-- Six legs (except fly larvae)
+- Six legs, except [fly](#-flies-order-diptera) larvae
 - segmented body (head, thorax, abdomen)
 
 
@@ -173,7 +174,7 @@ Several different bug families are aquatic, the two most common are:
 
 ### Caddisflies
 
-### Flies
+### Flies (Order: Diptera)
 
 ### Alderflies 
 

@@ -5,7 +5,7 @@ This simple website aims to provide help identifying the major invertebrate grou
 It's important to pond dip safely:
 1. Make sure you've done a risk assessment.
 2. Never pond dip alone, you might need help. 
-3. Wear gloves and wash your hands when done (you don't have to sing happy birthday!).
+3. Wear gloves and wash your hands when done - you don't have to sing happy birthday!
 4. Make sure to cover any cuts.
 5. Be on the lookout for symptoms of Weils disease, more info at the [NHS website](https://www.nhs.uk/conditions/leptospirosis/)
 
@@ -42,45 +42,59 @@ Here is a short video showing you a simple pond dip!
 
 
 ## **POND INVERTEBRATES**
-Below you will find images, videos and key features of the major groups you are likely to find in a pond dip.
+Below you will find videos and key features of the major groups you are likely to find in a pond dip.
 
 
 ### Flatworms (Phylum: Platyhelminthes)
 - Usually quite small (1-3cm)
 - Glide across the bottom
+- Predators / scavangers
 
 {% include youtubePlayer.html id="O040Jd3yzhM" %}
 {% include youtubePlayer.html id="5L4b6pyaXb4" %}
 
 ### Worms (Phylum: Annelida)
 **"Earthworms" (subclass: Oligochaeta)** 
-- can be quite large (up to 8cm)
+- Can be quite large (up to 8cm)
 - No obvious head or eyes
 - Segmented body
 
 {% include youtubePlayer.html id="7UyJW4LfsWI" %}
 
 **Leeches (subclass: Hirudinea)**
-- can be quite large (up to 8cm)
-- two suckers (front & back)
-- eyes present (can be tiny!)
+- Can be quite large (up to 8cm)
+- Two suckers (front & back)
+- Eyes present (but they can be tiny!)
 
 {% include youtubePlayer.html id="VBTWQNpIpTY" %}
 
-### Freshwater Snails 
-### Bivalves 
+### Freshwater Snails (Phylum: Mollusca, Class: Gastropoda)
+- Body covered by shell
+- Many different shapes and sizes
+- Feed on algae and detritus
+
+{% include youtubePlayer.html id="AwJzGcT389g" %}
+
+### Bivalves (Phylum: Mollusca, Class: Bivalvia)
+- Two valves make up the shell
+- Filter feeders
+
+{% include youtubePlayer.html id="EWOjE4yxwMs" %}
 
 
-## **INSECTS (6 legs)**
+## **INSECTS (Phylum: Arthropoda, Class: Insecta)**
+Insects comprise the group with the most species described so they are divided by Order below.
 
-### Dragonflies & Damselflies (Odonata)
+- 6 visible legs (unless a fly larva)
+- segmented body
+
+### Dragonflies & Damselflies (Order: Odonata)
 **Dragonflies**
-- large and stout (up to 5cm)
-- don't swim, use jet propulsion
-- no "tails"
+- Large and stout (up to 5cm)
+- Use waterjet propulsion (i.e. don't swim)
+- No "tails"
 
 {% include youtubePlayer.html id="UMXoh2u1cr0" %}
-
 
 **Damselflies**
 - large and slender (up to 3cm)

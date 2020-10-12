@@ -179,6 +179,7 @@ Several different bug families are aquatic, the most common are:
 - Very active (difficult to catch)
 
 {% include youtubePlayer.html id="LXRijDuF-2A" %}
+{% include youtubePlayer.html id="O0uNbzsceZE" %}
 
 
 ### Mayflies (Order: Ephemeroptera)
@@ -271,9 +272,34 @@ Several different bug families are aquatic, the most common are:
 
 ## **CRUSTACEANS (Phylum: Arthropoda, subphylum: Crustacea)**
 
-### Water Hog-louse 
+### Water Hog-louse (Species: Asellus aquaticus)
+*Very common in ponds, slowly crawling around.*
+
+- Dorsally flattened
+- Often found in pairs
+- Long antennae
+- Seven pairs of legs
+
+{% include youtubePlayer.html id="meeCbJqE87s" %}
+
 
 ### Freshwater Shrimp 
+
+- Laterally flattened
+- Swim on their sides
+- Very fast swimmers
+
+**Crangonyx pseudogracilis:**
+*A small American species introduced to this country during the last century*
+
+{% include youtubePlayer.html id="2XtmTiQ6ZwE" %}
+{% include youtubePlayer.html id="KRgRcqb_7_A" %}
+
+**Gammarus pulex:**
+*Typically found in rivers, but sometimes in ponds with flowing water*
+
+{% include youtubePlayer.html id="kj_fP9EafVo" %}
+
 
 ### Water Fleas (Order: Cladocera)
 

@@ -51,7 +51,7 @@ I've split them into three groups:
 2. Six legs
 3. More than six legs
 
-***Note:** Insects have 6 segmented legs, but fly larvae don't have any real legs - if in doubt check out the insect Order [Diptera](#-flies-order-diptera)*
+***Note:** Insects have 6 segmented legs, but fly larvae don't have any real legs - if in doubt check out the insect Order [Diptera](#flies-order-diptera)*
 
 
 ---
@@ -109,7 +109,7 @@ I've split them into three groups:
 *Insects comprise the group with the most species so they are divided by Order below.*
 
 Distinguishing features:
-- Six legs, except [fly](#-flies-order-diptera) larvae
+- Six legs, except [fly](#flies-order-diptera) larvae
 - segmented body (head, thorax, abdomen)
 
 

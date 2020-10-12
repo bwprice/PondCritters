@@ -1,13 +1,14 @@
-This simple website aims to provide help identifying the major invertebrate groups you are likely to encounter during a pond dip. Not all groups are covered yet..
+This simple website aims to provide help identifying the major invertebrate groups you are likely to encounter during a pond dip. Not all groups are covered yet.
 
 
 ## Health & Safety
 It's important to pond dip safely:
+
 1. Make sure you've done a risk assessment.
 2. Never pond dip alone, you might need help. 
-3. Wear gloves and wash your hands when done - you don't have to sing happy birthday!
+3. Wear gloves and wash your hands when done - *you don't have to sing happy birthday* :grin:
 4. Make sure to cover any cuts.
-5. Be on the lookout for symptoms of Weils disease, more info at the [NHS website](https://www.nhs.uk/conditions/leptospirosis/)
+5. Be on the lookout for symptoms of **Weils disease**, more info on the [NHS website](https://www.nhs.uk/conditions/leptospirosis/)
 
 
 ## How to pond dip
@@ -20,7 +21,7 @@ The most important thing is to keep the water going into the net, **DON’T MOVE
 
 Pond critters can be quite fast so you'll need to keep the water flowing into the net, or lift the net out of the water.
 
-Here is a short video showing you a simple pond dip!
+**A short pond dip from the net's viewpoint:**
 {% include youtubePlayer.html id="h0GnDxugNY0" %}
 
 <style type="text/css"> 
@@ -40,7 +41,7 @@ Here is a short video showing you a simple pond dip!
   }
 </style>
 
-
+---
 ## **POND INVERTEBRATES**
 Below you will find videos and key features of the major groups you are likely to find in a pond dip.
 
@@ -53,6 +54,7 @@ Below you will find videos and key features of the major groups you are likely t
 {% include youtubePlayer.html id="O040Jd3yzhM" %}
 {% include youtubePlayer.html id="5L4b6pyaXb4" %}
 
+
 ### Worms (Phylum: Annelida)
 **"Earthworms" (subclass: Oligochaeta)** 
 - Can be quite large (up to 8cm)
@@ -61,12 +63,15 @@ Below you will find videos and key features of the major groups you are likely t
 
 {% include youtubePlayer.html id="7UyJW4LfsWI" %}
 
+
 **Leeches (subclass: Hirudinea)**
 - Can be quite large (up to 8cm)
 - Two suckers (front & back)
 - Eyes present (but they can be tiny!)
+- Flattened body, but don't glide like flatworms
 
 {% include youtubePlayer.html id="VBTWQNpIpTY" %}
+
 
 ### Freshwater Snails (Phylum: Mollusca, Class: Gastropoda)
 - Body covered by shell
@@ -82,9 +87,12 @@ Below you will find videos and key features of the major groups you are likely t
 {% include youtubePlayer.html id="EWOjE4yxwMs" %}
 
 
-## **INSECTS (Phylum: Arthropoda, Class: Insecta)**
-Insects comprise the group with the most species described so they are divided by Order below.
 
+
+## **INSECTS (Phylum: Arthropoda, Class: Insecta)**
+*Insects comprise the group with the most species described so they are divided by Order below.*
+
+Distinguishing features:
 - 6 visible legs (unless a fly larva)
 - segmented body
 
@@ -92,22 +100,35 @@ Insects comprise the group with the most species described so they are divided b
 **Dragonflies**
 - Large and stout (up to 5cm)
 - Use waterjet propulsion (i.e. don't swim)
-- No "tails"
+- No "tail paddles" but can have short spines
+- Voracious predators
 
 {% include youtubePlayer.html id="UMXoh2u1cr0" %}
 
 **Damselflies**
-- large and slender (up to 3cm)
-- swim with a side-to-side motion
-- 3 "tails" - these are gills
+- Large and slender (up to 3cm)
+- Swim with a side-to-side motion
+- 3 "tail paddles" - these are gills
+- Voracious predators
 
 {% include youtubePlayer.html id="h0GnDxugNY0" %}
 
-### True Bugs (Hemiptera)
+### True Bugs (Order: Hemiptera)
+Several different bug families are aquatic, the two most common are below.
 
 **Corixidae (Water boatmen)**
+- Swim the right way up
+- Very fast swimmers
+- Predatory / scavangers
+
+{% include youtubePlayer.html id="XXXXX" %}
 
 **Notonectidae (Backswimmers)**
+- Swim upside down
+- Very fast swimmers
+- Predatory / scavangers
+
+{% include youtubePlayer.html id="RQ-3OC6fHm0" %}
 
 ### Beetles
 
@@ -138,4 +159,4 @@ Insects comprise the group with the most species described so they are divided b
 
 
 ## Thanks
-Thanks to John Davy-Bowker for allowing me to link in some of his wonderful videos!
+Thanks to John Davy-Bowker for allowing me to link in his wonderful videos!

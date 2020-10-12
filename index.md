@@ -45,9 +45,16 @@ Pond critters can be quite fast so you'll need to keep the water flowing into th
 ---
 ## **POND INVERTEBRATES**
 Below you will find videos and key features of the major groups you are likely to find in a pond dip.
+I've split them into three groups:
+
+1. No legs
+2. Six legs
+3. More than six legs
+
+*Note: Insects have 6 segmented legs, but fly larvae don't have any legs - if in doubt check the insect Order Diptera*
 
 ---
-<div align="center"> # NO LEGS </div>
+# NO LEGS
 
 
 ### Flatworms (Phylum: Platyhelminthes)
@@ -92,15 +99,16 @@ Below you will find videos and key features of the major groups you are likely t
 {% include youtubePlayer.html id="EWOjE4yxwMs" %}
 
 
+
 ---
-<div align="center"> 6 LEGS </div>
----
+# SIX LEGS
+
 
 ## **INSECTS (Phylum: Arthropoda, Class: Insecta)**
 *Insects comprise the group with the most species so they are divided by Order below.*
 
 Distinguishing features:
-- 6 legs (except fly larvae)
+- Six legs (except fly larvae)
 - segmented body (head, thorax, abdomen)
 
 

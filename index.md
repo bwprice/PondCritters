@@ -211,7 +211,8 @@ Several different bug families are aquatic, the most common are:
 *Flies are the most species rich freshwater invertebrate group, with over 3000 species in the UK alone!*
 
 **Craneflies (Family: Tabanidae)**
-*These flies have unmistakable adults, known as "daddy longlegs"* 
+
+*These flies have unmistakable large adults, known as "daddy longlegs."* 
 
 - Soft worm-like body
 - Large anal spiracles (breathing holes)
@@ -221,17 +222,19 @@ Several different bug families are aquatic, the most common are:
 
 
 **Phantom Midges (Family: Chaoboridae)**
+
 *The fly equivalent of a submarine!*
 
 - Nearly transparent
-- Float in the water column (i.e. not on surface or bottom)
-- Antennae modified into grasping organs (like the raptorial arms of a mantis)
+- Float in the water column (i.e. not on the surface or bottom)
+- Antennae modified into grasping organs (like the raptorial arms of a mantis!)
 
 {% include youtubePlayer.html id="1HUBvGVa8GI" %}
 
 
 **Non-biting Midges (Family: Chironomidae)**
-*A diverse group in which the adults look like mosquitos*
+
+*A diverse group in which the adults look like mosquitos.*
 
 - Distinct head
 - Sometimes bright red
@@ -244,13 +247,29 @@ Several different bug families are aquatic, the most common are:
 # MORE THAN SIX LEGS
 
 
-## **ARACHNIDA**
+## **ARACHNIDS (Phylum Arthropoda, Class: Arachnida)**
 
-### Spiders
-### Mites
+### Spiders (Order: Araneae)
+*There are three species found associated with water in the UK, but only one habitually lives in water (Argyroneta aquatica).*
+
+- Eight legs
+- Body in two segments
+  - Cephalothorax
+  - Abdomen
+
+{% include youtubePlayer.html id="7I5Vjnml-lA" %}
 
 
-## **CRUSTACEA**
+### Mites (Unranked: Hydrachnidia)
+*A very diverse group of tiny swimming arachnids.*
+
+- parasitic/phoretic larvae
+- adults are voracious predators
+
+{% include youtubePlayer.html id="qHPoU84Jrrs" %}
+
+
+## **CRUSTACEANS (Phylum: Arthropoda, subphylum: Crustacea)**
 
 ### Water Hog-louse 
 

@@ -209,17 +209,22 @@ Several different bug families are aquatic, the most common are:
 
 **Craneflies (Family: Tabanidae)**
 
+- Soft worm-like body
+- Large anal spiracles (breathing holes)
+- Protuberances on final segment
 
 {% include youtubePlayer.html id="2QqAcu8KEWs" %}
+
 
 **Phantom Midges (Family: Chaoboridae)**
 *The fly equivalent of a submarine!*
 
-- Distinct head
-- Sometimes bright red
-- Prolegs just behind head
+- Nearly transparent
+- Float in the water column (i.e. not on surface or bottom)
+- Antennae modified into grasping organs (like the raptorial arms of a mantis)
 
-{% include youtubePlayer.html id="2vY01Lm374A" %}
+{% include youtubePlayer.html id="1HUBvGVa8GI" %}
+
 
 **Non-biting Midges (Family: Chironomidae)**
 *A diverse group in which the adults look like mosquitos*

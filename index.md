@@ -1,15 +1,13 @@
-# Welcome to Pond Critters
-
 This simple website aims to provide help identifying the major invertebrate groups you are likely to encounter during a pond dip. Not all groups are covered yet..
 
 
 ## Health & Safety
 It's important to pond dip safely:
-	1. Always make sure you've done a comprehensive risk assessment before beginning.
-	2. Never pond dip alone, you might need help. 
-	3. Whenever working with water samples you should use gloves and wash your hands when done.
-	4. Make sure to cover any scrapes / grazes or cuts.
-	5. Be on the lookout for symptoms of Weils disease: [https://www.nhs.uk/conditions/leptospirosis/](url)
+1. Always make sure you've done a comprehensive risk assessment before beginning.
+2. Never pond dip alone, you might need help. 
+3. Whenever working with water samples you should use gloves and wash your hands when done.
+4. Make sure to cover any scrapes / grazes or cuts.
+5. Be on the lookout for symptoms of Weils disease: [https://www.nhs.uk/conditions/leptospirosis/](url)
 
 
 ## How to pond dip

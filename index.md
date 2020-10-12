@@ -1,42 +1,75 @@
 # Welcome to Pond Critters
 
+This simple website aims to provide help identifying the major invertebrate groups you are likely to encounter during a pond dip. Not all groups are covered yet..
 
-## video example
+
+## Health & Safety
+It's important to pond dip safely:
+	1. Always make sure you've done a comprehensive risk assessment before beginning.
+	2. Never pond dip alone, you might need help. 
+	3. Whenever working with water samples you should use gloves and wash your hands when done.
+	4. Make sure to cover any scrapes / grazes or cuts.
+	5. Be on the lookout for symptoms of Weils disease: [https://www.nhs.uk/conditions/leptospirosis/](url)
+
+
+## How to pond dip
+It's as simple as it sounds - grab a net and dip it into the pond! Make sure you scrape up against any submerged vegetation or overhanging vegetation on the sides and get some of the bottom leaves and silt in the net.
+
+The most important thing is to keep the water going into the net, DON’T MOVE IT BACKWARDS or everything you've just caught will fall out the front! Pond critters can be quite fast so you'll need to keep the water flowing into the net, or lift the net out of the water.
+
+Here is a short video showing you a simple pond dip!
+{% include youtubePlayer.html id="h0GnDxugNY0" %}
+
+
+## **POND INVERTEBRATES**
+Below you will find images, videos and key features of the major groups you are likely to find in a pond dip.
+
+
+### Flatworms 
+
+### Worms (Annelida)
+
+### Leeches (Hirudinea)
+
+
+
+### Freshwater Snails 
+### Bivalves 
+
+
+## **INSECTS (6 legs)**
+
+### Dragonflies & Damselflies (Odonata)
+
+### True Bugs (Hemiptera)
+
+**Corixidae (Water boatmen)**
+
+**Notonectidae (Backswimmers)**
+
+### Beetles
 
 {% include youtubePlayer.html id="h0GnDxugNY0" %}
 
-You can use the [editor on GitHub](https://github.com/bwprice/PondCritters/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Mayflies
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Caddisflies
 
-### Markdown
+### Flies
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Alderflies 
 
-```markdown
-Syntax highlighted code block
+## **ARACHNIDA**
 
-# Header 1
-## Header 2
-### Header 3
+### Spiders
+### Mites
 
-- Bulleted
-- List
+## **CRUSTACEA**
 
-1. Numbered
-2. List
+### Water Hog-louse 
 
-**Bold** and _Italic_ and `Code` text
+### Freshwater Shrimp 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bwprice/PondCritters/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Thanks
+Thanks to John Davy-Bowker for allowing me to link in some of his wonderful videos!

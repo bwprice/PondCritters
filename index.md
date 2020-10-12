@@ -47,8 +47,8 @@ Pond critters can be quite fast so you'll need to keep the water flowing into th
 Below you will find videos and key features of the major groups you are likely to find in a pond dip.
 
 ---
-<div align="center"> NO LEGS </div>
----
+<div align="center"> # NO LEGS </div>
+
 
 ### Flatworms (Phylum: Platyhelminthes)
 - Usually quite small (1-3cm)

@@ -46,19 +46,21 @@ Below you will find images, videos and key features of the major groups you are 
 
 
 ### Flatworms (Phylum: Platyhelminthes)
-- Usually quite small (10-30mm)
+- Usually quite small (1-3cm)
 - Glide across the bottom
 
 {% include youtubePlayer.html id="O040Jd3yzhM" %}
+{% include youtubePlayer.html id="5L4b6pyaXb4" %}
 
-## WORMS (Phylum: Annelida)
+### Worms (Phylum: Annelida)
+**Earthworms (subclass: Oligochaeta)** 
 
-### Oligochaeta (subclass: Oligochaeta) 
+{% include youtubePlayer.html id="O040Jd3yzhM" %}
+
+**Leeches (subclass: Hirudinea)**
 
 
-### Leeches (subclass: Hirudinea)
-
-
+{% include youtubePlayer.html id="O040Jd3yzhM" %}
 
 ### Freshwater Snails 
 ### Bivalves 
@@ -67,7 +69,18 @@ Below you will find images, videos and key features of the major groups you are 
 ## **INSECTS (6 legs)**
 
 ### Dragonflies & Damselflies (Odonata)
+**Dragonflies**
+- large and stout (up to 5cm)
+- don't swim, use jet propulsion
+- no "tails"
 
+{% include youtubePlayer.html id="UMXoh2u1cr0" %}
+
+
+**Damselflies**
+- large and slender (up to 3cm)
+- swim with a side-to-side motion
+- 3 "tails" - these are gills
 
 {% include youtubePlayer.html id="h0GnDxugNY0" %}
 

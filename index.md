@@ -273,8 +273,8 @@ Several different bug families are aquatic, the most common are:
 ### Mites (Unranked: Hydrachnidia)
 *A very diverse group of tiny swimming arachnids.*
 
-- parasitic/phoretic larvae
-- adults are voracious predators
+- Parasitic/phoretic larvae
+- Adults are voracious predators
 
 {% include youtubePlayer.html id="qHPoU84Jrrs" %}
 
@@ -315,6 +315,6 @@ Several different bug families are aquatic, the most common are:
 {% include youtubePlayer.html id="1HUBvGVa8GI" %}
 
 
-# Final Comments
+# THANKS!!
 
-I hope you enjoyed this video guide of pond life! Many thanks to John Davy-Bowker for allowing me to link in his [wonderful videos!](https://www.youtube.com/channel/UCnZM0yqbODGBG-P2EqMwoeg/videos)
+I hope you enjoyed this brief video guide of pond life! Many thanks to John Davy-Bowker for allowing me to link in his [wonderful videos!](https://www.youtube.com/channel/UCnZM0yqbODGBG-P2EqMwoeg/videos)

@@ -272,7 +272,7 @@ Several different bug families are aquatic, the most common are:
 
 ## **CRUSTACEANS (Phylum: Arthropoda, subphylum: Crustacea)**
 
-### Water Hog-louse (Species: Asellus aquaticus)
+### Water Hog-louse (Order: Isopoda, Species: Asellus aquaticus)
 *Very common in ponds, slowly crawling around.*
 
 - Dorsally flattened
@@ -282,34 +282,30 @@ Several different bug families are aquatic, the most common are:
 
 {% include youtubePlayer.html id="meeCbJqE87s" %}
 
-
-### Freshwater Shrimp 
+### Shrimp (Order: Amphipoda, Species: Crangonyx pseudogracilis)
+*A small American species introduced to this country during the last century*
 
 - Laterally flattened
-- Swim on their sides
 - Very fast swimmers
-
-**Crangonyx pseudogracilis:**
-*A small American species introduced to this country during the last century*
 
 {% include youtubePlayer.html id="2XtmTiQ6ZwE" %}
 {% include youtubePlayer.html id="KRgRcqb_7_A" %}
 
-**Gammarus pulex:**
-*Typically found in rivers, but sometimes in ponds with flowing water*
-
-{% include youtubePlayer.html id="kj_fP9EafVo" %}
-
 
 ### Water Fleas (Order: Cladocera)
+*Tiny freshwater crustaceans, often found in high abundance.*
+
+- Single median compound eye
+- Mostly asexual reproduction
+- Bouncing swimming action
+
+{% include youtubePlayer.html id="A4TRXFGV8Bg" %}
 
 
+*Also visible with the Chaoboridae below:*
+{% include youtubePlayer.html id="1HUBvGVa8GI" %}
 
 
+# Final Comments
 
-
-
-
-
-## Thanks
-Thanks to John Davy-Bowker for allowing me to link in his wonderful videos!
+I hope you enjoyed this video guide of pond life! Many thanks to John Davy-Bowker for allowing me to link in his [wonderful videos!](https://www.youtube.com/channel/UCnZM0yqbODGBG-P2EqMwoeg/videos)

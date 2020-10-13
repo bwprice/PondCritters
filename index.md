@@ -210,6 +210,21 @@ Several different bug families are aquatic, the most common are:
 {% include youtubePlayer.html id="LXRijDuF-2A" %}
 
 
+**Water Scavenger Beetles (Family: Hydrophilidae)**  
+- Larvae:
+  - Small
+  - Pincer-like mouthparts
+
+{% include youtubePlayer.html id="LdhpfagJ5ic" %}
+
+
+- Adults:
+  - Walk around rather than swim
+  - Carry a silvery air bubble underneath
+  
+{% include youtubePlayer.html id="71rBIgf4Owk" %}
+
+
 
 ### Mayflies (Order: Ephemeroptera)
 *In most British ponds you will likely find a single species: Cloeon dipterum - the "pond olive"*

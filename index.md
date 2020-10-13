@@ -220,15 +220,24 @@ Several different bug families are aquatic, the most common are:
 ### Flies (Order: Diptera)
 *Flies are the most species rich freshwater invertebrate group, with over 3000 species in the UK alone!*
 
-**Craneflies (Family: Tabanidae)**
-
-*These flies have unmistakable large adults, known as "daddy longlegs."* 
+**Horseflies (Family: Tabanidae)**
+*You find them around large animals and they bite!* 
 
 - Soft worm-like body
 - Large anal spiracles (breathing holes)
+- Striped body (stripes made of strong hairs)
 - Protuberances on final segment
 
 {% include youtubePlayer.html id="2QqAcu8KEWs" %}
+
+
+**Craneflies (Family: Tipulidae)**
+*These flies have unmistakable, large adults, known as "daddy longlegs."* 
+
+- Thick worm-like body
+- The back end has lots of finger-like projections
+
+{% include youtubePlayer.html id="HuLU7FHaWWE" %}
 
 
 **Phantom Midges (Family: Chaoboridae)**

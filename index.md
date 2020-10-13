@@ -21,8 +21,9 @@ The most important thing is to keep the water going into the net, **DON’T MOVE
 
 Pond critters can be quite fast so you'll need to keep the water flowing into the net, or lift the net out of the water.
 
+
 **A short pond dip from the net's viewpoint:**
-{% include youtubePlayer.html id="h0GnDxugNY0" %}
+{% include youtubePlayer.html id="HZGVEujFA-s" %}
 
 <style type="text/css"> 
   .embed-youtube {

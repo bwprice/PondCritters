@@ -171,24 +171,44 @@ Several different bug families are aquatic, the most common are:
 {% include youtubePlayer.html id="RQ-3OC6fHm0" %}
 
 
-### Beetles
-*Unlike bugs, beetle larvae look very different to the adults and both can be found in a pond*
+### Beetles (Order: Coleoptera)
+*Unlike bugs, beetle larvae look very different to the adults and both can be found in a pond There are several families in ponds, some of the common ones are below*
 
-**Larvae**
-- Worm-like shape
-- Six segmented legs
-- Distinct head is usually visible
+**Whirligig Beetles (Family: Gyrinidae)**  
+- Larvae:
+  - Long, slender worm-like shape
+  - Segmented legs
+  - Projections (gills) along the side of the body
+
+{% include youtubePlayer.html id="8PC7TjNAJb8" %}
+
+
+- Adults:
+  - They don't stop moving on the water surface!
+  - Long front legs
+  - Compound eyes divided (above and below water surface)
+  - Hardened case covers wings
+
+{% include youtubePlayer.html id="YOwzxXO6Qxw" %}
+
+
+**Diving Beetles (Family: Dytiscidae)** 
+- Larvae:
+  - Distinct head is usually visible
+  - Large pincer-like mouthparts
+  - Breathing tube at the back
 
 {% include youtubePlayer.html id="a4xCXndZ7l4" %}
 
 
-**Adults**
-- Robust body, round rather than long
-- Hardened case covers wings
-- Very active (difficult to catch)
+- Adults:
+  - Hang from the water surface
+  - Hindlegs fringed with hairs to form an oar
+  - Store air under their wing case
+  - Often dive underwater and hang onto vegetation
 
 {% include youtubePlayer.html id="LXRijDuF-2A" %}
-{% include youtubePlayer.html id="O0uNbzsceZE" %}
+
 
 
 ### Mayflies (Order: Ephemeroptera)
@@ -296,6 +316,7 @@ Several different bug families are aquatic, the most common are:
 *A very diverse group of tiny swimming arachnids.*
 
 - Parasitic/phoretic larvae
+- Fast swimming adults - hardly ever stop!
 - Adults are voracious predators
 
 {% include youtubePlayer.html id="qHPoU84Jrrs" %}

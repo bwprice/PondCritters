@@ -13,6 +13,7 @@ It's important to pond dip safely:
 
 ## How to pond dip
 It's as simple as it sounds - grab a net and dip it into the pond! Make sure you:
+
 1. Gently scrape up against any vegetation.
 2. Get some of the bottom leaves, sticks and mud into the net.
 3. Clean the contents by dipping the net into the water several times.
@@ -43,14 +44,16 @@ Pond critters can be quite fast so you'll need to keep the water flowing into th
 </style>
 
 Once you've got a sample you have to clean and sort it:
+
 1. Tip out the net contents into a tray.
 2. Pick out the big leaves and sticks.
-3. Pick out the invertebrates into a clean tray or sorting dish.
+3. Pick out the invertebrates into a clean tray or sorting dish with a spoon or soft forceps.
 
 
 ---
 ## **POND INVERTEBRATES**
 Below you will find videos and key features of the major groups you are likely to find in a pond dip.
+
 I've split them into three groups:
 
 1. [No legs](#no-legs)

@@ -172,7 +172,8 @@ Several different bug families are aquatic, the most common are:
 
 
 ### Beetles (Order: Coleoptera)
-*Unlike bugs, beetle larvae look very different to the adults and both can be found in a pond There are several families in ponds, some of the common ones are below*
+*Unlike bugs, beetle larvae look very different to the adults and both can be found in a pond.*
+*There are several families in ponds, some of the common ones are below.*
 
 **Whirligig Beetles (Family: Gyrinidae)**  
 - Larvae:
@@ -211,8 +212,9 @@ Several different bug families are aquatic, the most common are:
 
 
 **Water Scavenger Beetles (Family: Hydrophilidae)**  
+*These are predatory, despite their name*
 - Larvae:
-  - Small
+  - Slow moving
   - Pincer-like mouthparts
 
 {% include youtubePlayer.html id="LdhpfagJ5ic" %}
@@ -221,6 +223,8 @@ Several different bug families are aquatic, the most common are:
 - Adults:
   - Walk around rather than swim
   - Carry a silvery air bubble underneath
+  - Palps are longer than clubbed antennae
+  - Antennae modified as breathing tubes
   
 {% include youtubePlayer.html id="71rBIgf4Owk" %}
 

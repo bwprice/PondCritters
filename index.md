@@ -222,7 +222,7 @@ Several different bug families are aquatic, the most common are:
 ### Flies (Order: Diptera) 
 *Flies are the most species rich freshwater invertebrate group, with over 3000 species in the UK alone!*
 
-**Horseflies (Family: Tabanidae)** 
+**Horseflies (Family: Tabanidae)**  
 *You find them around large animals and they bite!* 
 
 - Soft worm-like body
@@ -233,7 +233,7 @@ Several different bug families are aquatic, the most common are:
 {% include youtubePlayer.html id="2QqAcu8KEWs" %}
 
 
-**Craneflies (Family: Tipulidae)** 
+**Craneflies (Family: Tipulidae)**  
 *These flies have unmistakable, large adults, known as "daddy longlegs."* 
 
 - Thick worm-like body
@@ -242,7 +242,7 @@ Several different bug families are aquatic, the most common are:
 {% include youtubePlayer.html id="HuLU7FHaWWE" %}
 
 
-**Phantom Midges (Family: Chaoboridae)** 
+**Phantom Midges (Family: Chaoboridae)**  
 *The fly equivalent of a submarine!*
 
 - Nearly transparent
@@ -252,7 +252,7 @@ Several different bug families are aquatic, the most common are:
 {% include youtubePlayer.html id="1HUBvGVa8GI" %}
 
 
-**Non-biting Midges (Family: Chironomidae)** 
+**Non-biting Midges (Family: Chironomidae)**  
 *A diverse group in which the adults look like mosquitos.*
 
 - Distinct head
@@ -262,7 +262,7 @@ Several different bug families are aquatic, the most common are:
 {% include youtubePlayer.html id="2vY01Lm374A" %}
 
 
-**Mosquitos (Family: Culicidae)** 
+**Mosquitos (Family: Culicidae)**  
 *These need no introduction!*
 
 - Distinct head and enlarged thorax

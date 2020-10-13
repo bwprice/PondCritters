@@ -41,6 +41,11 @@ Pond critters can be quite fast so you'll need to keep the water flowing into th
   }
 </style>
 
+Once you've got a sample you have to clean and sort it:
+1. Tip out the net contents into a tray.
+2. Pick out the big leaves and sticks.
+3. Pick out the invertebrates into a clean tray or sorting dish.
+
 
 ---
 ## **POND INVERTEBRATES**
